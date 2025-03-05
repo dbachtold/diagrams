@@ -52,12 +52,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WjzqcBm2RWJ2saositoi" name="Snowflake">
-    <mxGraphModel dx="2074" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="uoEYfNodEpt4mlHbl6iA-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="270" width="790" height="430" as="geometry" />
+          <mxGeometry x="100" y="50" width="490" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
